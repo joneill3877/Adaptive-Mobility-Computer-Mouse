@@ -15,6 +15,7 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
    3. [Diagrams](#diagrams)
    4. [Bill of Materials](#bill-of-materials)
    5. [Pseudocode](#pseudocode)
+</details>
 <details>
 <summary>Documentation</summary>	
 
@@ -25,7 +26,6 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
    4. [Evidence](#evidence)
    5. [Reflective Schedule](#reflective-schedule)
    6. [Reflection](#reflection)
-</details>
 </details>
 </details>
 
