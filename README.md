@@ -4,7 +4,7 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
 
 ## Table of Contents
 1. [Planning](#planning)
-   2. [Scope/Proposal](#scope/proposal)
+   1. [Scope/Proposal](#scope/proposal)
    2. [Schedule](#schedule)
    3. [Diagrams](#diagrams)
    4. [Bill of Materials](#bill-of-materials)
