@@ -1,4 +1,4 @@
-# 2024 Engeering 4 Project
+# 2024 Engineering 4 Project
 ## Adaptive Mobility Computer Mouse
 By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
 
