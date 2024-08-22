@@ -6,12 +6,18 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
   <summary>Table of Contents</summary>
   
 ## Table of Contents
+<details>
+<summary>Planning</summary>
+
 1. [Planning](#planning)
    1. [Scope/Proposal](#scope/proposal)
    2. [Schedule](#schedule)
    3. [Diagrams](#diagrams)
    4. [Bill of Materials](#bill-of-materials)
    5. [Pseudocode](#pseudocode)
+<details>
+<summary>Documentation</summary>	
+
 2. [Documentation](#documentation)
    1. [CAD](#cad)
    2. [Code](#code)
@@ -19,13 +25,9 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
    4. [Evidence](#evidence)
    5. [Reflective Schedule](#reflective-schedule)
    6. [Reflection](#reflection)
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
-
+</details>
+</details>
 
 # Planning
 ## Scope/Proposal
