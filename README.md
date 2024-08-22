@@ -1,1 +1,85 @@
-# Adaptive-Mobility-Computer-Mouse
+# 2024 Engeering 4 Adaptive Mobility Computer Mouse
+## Modular Computer Mouse System
+By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
+
+## Table of Contents
+1. [Planning](#planning)
+   2. [Scope/Proposal](#scope/proposal)
+   2. [Schedule](#schedule)
+   3. [Diagrams](#diagrams)
+   4. [Bill of Materials](#bill-of-materials)
+   5. [Pseudocode](#pseudocode)
+2. [Documentation](#documentation)
+   1. [CAD](#cad)
+   2. [Code](#code)
+   3. [Wiring Diagram](#wiring-diagram)
+   4. [Evidence](#evidence)
+   5. [Reflective Schedule](#reflective-schedule)
+   6. [Reflection](#reflection)
+
+# Planning
+## Scope/Proposal
+
+
+## Schedule
+| Week                        |  Goal                                                                                     |
+| :-------------------------: |  :-------------------------------------------------------------------------------------:  |
+| Week 1 () |    |
+| Week 2 () |    |
+| Week 3 () |    |
+| Week 4 () |    |
+| Week 5 () |    |
+| Week 6 () |    |
+| Week 7 () |    |
+| Week 8 () |    |
+
+Note: This is a tentative schedule for illustrative purposes, and is subject to change based on numerous factors such as the completion of different steps and the official project due date. 
+## Diagrams
+<img src="" alt="Planning Diagram" width="400" height="500">
+
+## Bill Of Materials
+|  Name  |  Description  |  Quantity  |
+| :----: | :-----------: | :--------: |
+|  |  |  |
+
+
+		
+		
+
+## Pseudocode
+
+```
+
+```
+
+
+# Documentation
+
+## CAD
+[Link to onshape]()
+
+
+
+## Code
+
+```python
+
+    
+```
+
+## Wiring Diagram
+
+
+![Capture]()
+
+## Evidence
+
+[Link to Evidence]()
+
+## Reflective Schedule
+| Week                        |  Goal                                                                                     |
+| :-------------------------: |  :-------------------------------------------------------------------------------------:
+|  |  |
+
+## Reflection
+
