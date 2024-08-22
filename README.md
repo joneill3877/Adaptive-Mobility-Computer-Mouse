@@ -3,7 +3,7 @@
 By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary><b>Table of Contents</b></summary>
   
 ## Table of Contents
 <details>
