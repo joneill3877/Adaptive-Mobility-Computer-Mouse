@@ -2,6 +2,9 @@
 ## Adaptive Mobility Computer Mouse
 By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
 
+<details>
+  <summary>Table of Contents</summary>
+  
 ## Table of Contents
 1. [Planning](#planning)
    1. [Scope/Proposal](#scope/proposal)
@@ -16,6 +19,13 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
    4. [Evidence](#evidence)
    5. [Reflective Schedule](#reflective-schedule)
    6. [Reflection](#reflection)
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 
 # Planning
 ## Scope/Proposal
