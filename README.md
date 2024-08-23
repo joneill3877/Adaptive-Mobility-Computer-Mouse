@@ -32,6 +32,7 @@ By Benjamin Paquette, Alan Puentes, and Joshua O'Neill Rossouw
 # Planning
 ## Scope/Proposal
 
+[Link to Proposal](https://docs.google.com/document/d/18oT4Brwo_m5LIUZL_Cqsrv46-YVamFaon35_JfuQIj4/edit?usp=sharing)
 
 ## Schedule
 | Week                        |  Goal                                                                                     |
